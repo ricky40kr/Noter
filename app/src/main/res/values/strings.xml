@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Noter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Note…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Empty note discarded</string>
+    <string name="add_note">Add note</string>
+    <string name="delete_button">delete button</string>
+</resources>
